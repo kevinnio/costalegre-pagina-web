@@ -1,8 +1,14 @@
-main { margin-top: 0.5em;  }
-.slogan { font-weight: bolder; font-size: 2.5em; }
+main { 
+	margin-top: 0.5em;
+	background-color: white;
+}
+
+.slogan { 
+	font-weight: bolder; font-size: 2.5em;
+}
 
 .carousel slide{
-	height: 300px;
+	height: 100px;
 	text-align: center;
 }
 
@@ -11,3 +17,6 @@ main { margin-top: 0.5em;  }
 		padding-bottom: 15%;
 		font-size: 60px !important;
 	}
+body{
+	background-color: #E77817;
+}
