@@ -1,2 +1,13 @@
 main { margin-top: 0.5em;  }
 .slogan { font-weight: bolder; font-size: 2.5em; }
+
+.carousel slide{
+	height: 300px;
+	text-align: center;
+}
+
+.carousel-control{
+		padding-top: 15%;
+		padding-bottom: 15%;
+		font-size: 60px !important;
+	}
