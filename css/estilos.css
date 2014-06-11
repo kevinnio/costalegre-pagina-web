@@ -2,10 +2,14 @@ main {
 	margin-top: 0.5em;
 	background-color: white;
 <<<<<<< HEAD
+<<<<<<< HEAD
 	border-radius: 3px 3px 3px 3px;
 =======
 	border-top-right-radius: 15px;
 >>>>>>> agregada una esquina doblada sonbras y un borde redondeado en el main del index
+=======
+	border-radius: 3px 3px 3px 3px;
+>>>>>>> cambios ligeros al commit anterior
 	box-shadow: 10px 10px 5px #888888;
 }
 
